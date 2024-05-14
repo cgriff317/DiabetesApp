@@ -34,8 +34,6 @@ MouseInfo==0.1.3
 multiprocess==0.70.16
 nest-asyncio==1.6.0
 numpy==1.26.4
-other_package1
-other_package2
 outcome==1.3.0.post0
 output==1.0.1
 packaging==24.0
